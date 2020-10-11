@@ -1,9 +1,9 @@
 [
  {
-   "repository": "vendor_xiaomi_sakura",
+   "repository": "hornbillos/vendor-blob/vendor_xiaomi_sakura",
    "target_path": "vendor/xiaomi/sakura",
    "branch": "ten",
-   "remote":"hornbill-devices-blobs"
+   "remote":"gitlab"
  },
  {
    "repository": "kernel_xiaomi_msm8953",
