@@ -1,6 +1,6 @@
 [
  {
-   "repository": "hornbillos/vendor-blob/vendor_xiaomi_sakura",
+   "repository": "hornbillos/vendor_xiaomi_sakura",
    "target_path": "vendor/xiaomi/sakura",
    "branch": "ten",
    "remote":"gitlab"
