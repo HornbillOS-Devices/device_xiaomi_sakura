@@ -6,7 +6,7 @@
    "remote":"gitlab"
  },
  {
-   "repository": "kernel_xiaomi_msm8953",
+   "repository": "HornbillOS-Devices/kernel_xiaomi_msm8953",
    "target_path": "kernel/xiaomi/sakura",
    "branch": "ten"
  },
