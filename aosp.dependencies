@@ -11,7 +11,7 @@
    "branch": "ten"
  },
  {
-   "repository": "hardware_xiaomi",
+   "repository": "HornbillOS-Devices/hardware_xiaomi",
    "target_path": "hardware/xiaomi",
    "branch": "ten"
  },
